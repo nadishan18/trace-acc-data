@@ -17,5 +17,15 @@
     "createdAt": "1/24/2025, 5:49:18 PM",
     "status": "Verified",
     "verifiedAt": "1/24/2025, 5:49:32 PM"
+  },
+  {
+    "username": "nadishandanthanarayana@gmail.com",
+    "email": "nadishandanthanarayana@gmail.com",
+    "password": "1",
+    "country": "Canada",
+    "accountId": "ID-1737725289072-3821",
+    "createdAt": "1/24/2025, 6:58:11 PM",
+    "status": "login",
+    "loggedInAt": "1/24/2025, 6:58:25 PM"
   }
 ]
