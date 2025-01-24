@@ -1,24 +1,5 @@
 [
   {
-    "username": "nadiya",
-    "email": "nadishandanthanarayana@gmail.com",
-    "password": "2006",
-    "accountId": "ID-1737716075930-3735",
-    "createdAt": "1/24/2025, 4:24:35 PM",
-    "status": "logout",
-    "verified": false
-  },
-  {
-    "username": "nadishandanthanarayana@gmail.com",
-    "email": "nadishandanthanarayana@gmail.com",
-    "password": "nadishandanthanarayana@gmail.com",
-    "country": "Brazil",
-    "accountId": "ID-1737721156160-6632",
-    "createdAt": "1/24/2025, 5:49:18 PM",
-    "status": "Verified",
-    "verifiedAt": "1/24/2025, 5:49:32 PM"
-  },
-  {
     "username": "nadishandanthanarayana@gmail.com",
     "email": "nadishandanthanarayana@gmail.com",
     "password": "1",
