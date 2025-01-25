@@ -1,22 +1,3 @@
 [
-  {
-    "username": "nadishandanthanarayana@gmail.com",
-    "email": "nadishandanthanarayana@gmail.com",
-    "password": "1",
-    "country": "Canada",
-    "accountId": "ID-1737725289072-3821",
-    "createdAt": "1/24/2025, 6:58:11 PM",
-    "status": "login",
-    "loggedInAt": "1/24/2025, 6:58:25 PM"
-  },
-  {
-    "username": "aaa",
-    "email": "nadishandanthanarayana@gmail.com",
-    "password": "aa",
-    "country": "Brazil",
-    "accountId": "ID-1737730675548-4181",
-    "createdAt": "1/24/2025, 8:27:58 PM",
-    "status": "logout",
-    "loggedInAt": "1/24/2025, 8:28:10 PM"
-  }
+
 ]
