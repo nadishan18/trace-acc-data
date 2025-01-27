@@ -18,5 +18,15 @@
     "createdAt": "1/26/2025, 11:12:01 AM",
     "status": "login",
     "loggedInAt": "1/26/2025, 11:12:42 AM"
+  },
+  {
+    "username": "Nadishan",
+    "email": "danthanarayananadeshan@gmail.com",
+    "password": "2006",
+    "country": "Sri Lanka",
+    "accountId": "ID-1737939454040-3079",
+    "createdAt": "1/27/2025, 6:27:36 AM",
+    "status": "login",
+    "loggedInAt": "1/27/2025, 6:28:06 AM"
   }
 ]
